@@ -1,6 +1,6 @@
 cask "time-on" do
   version "1.0.0"
-  sha256 "acfc06116e8a3021cbc15ef3aeeddefa5ff715eb521a7028b71319141f1113c8"
+  sha256 "29d72af1a0016200b56435e3d7f2b57f133145b178573a4d21a4cc95aaa9d3ed"
 
   url "https://github.com/thomasjebsen/time-on/releases/download/v#{version}/TimeOn.app.zip"
   name "Time On"
